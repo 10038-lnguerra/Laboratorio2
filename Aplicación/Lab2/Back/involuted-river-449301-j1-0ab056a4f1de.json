@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "involuted-river-449301-j1",
+  "private_key_id": "0ab056a4f1deabcbc939d1d139c6861698724abf",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQDVH7/0lB4chUOj\nJth7iFheOapi+Km3p7xTRtxS1cNHDeYEgsHC7gWxR9XwZDEI7NDZIQ3If8eR7t4O\nCN/DvA0JzwhhE/jaTnTV250+PWV3cjTmx4JsLlej/CLvZ58YgboE2Ph96V183UEh\n3Y90aXD/QzBwBYoQSv+X6hk0EysZL7Hhg7eLNZWarwlMHAGlX4WSfCIFxBwjDTbl\nFHeEkA+VO0ARia36tWH58qXNJPknDkF7260QU4WukVIqmjb0ktBQ++hrkBcoFAem\nOayvzB+1xmXICEJpmaqW0dtH6FqARKB44PVzSyVv0Qgy0Y8ZxoEVPmuetr2R/25m\nDPIr5dehAgMBAAECggEAErBlEdqHRXL+OmlmpHaRYTnnUiSCJYPFBPx6x5zNMgbq\n+8xHl4Nt5lzpStpOXnz913yJi+KAqrBqsoperPhpoEmSb4jj0qj8n+BRSqrxoebW\n8sHeEwSBVPUAT0Qj9G8z08b/C3OSaiew1XprYQb6DLhkn/4sXD9naHfz29gueFfI\nVUDWwnbzift+DaQQOfTTwMC1L5Bj49kG3nPDWazxTAOyzS5NdC01yITxbvxrgtvK\nwxrRcoVXx31Tc30vk4Xc0BEkJE6eoy4x4rGVY3VdTQNyGOlPKXHQVBmKb6iap7yg\nPPkHfl6L7lDmryttjVSmBZlY7UUxDjtKrLrV8vXxfQKBgQD3ndnhGGqMZOga4pZ7\nJHbjVvSJBdfKIeuc+tknxDrwcfiPYLvgMHXNJ6bnOYS2svfSG7UdKR8XCGi+Yzpj\nKCDitzQOggkCj2LMP5eYYH0zbiWDDyTnKxPGpU2hUiTtJuiY+Z7t7fHWnH65SNFz\nR2gMQGmWemo78UcYeZ/JG4FvuwKBgQDcVvGZXRzSBZP4YmOh8T+wBAGQhifyIg2/\nLYLQpRo8ATp1I65IRHNBWzHdrBZ1tltoV5J4UuEep1tFp7gRatPSstyOKnC4qh3r\nOZPG2B3vKIwfa86jxkCteADtsKwdu2P1m58EvckaOVZF0uBnsU7Cxijdk+xdIGpA\noU0DY1b6UwKBgA1WWUgAkqyhOsdH8ScM3cJ9Core37KphRFdiZjUvv/4g5Tldvkq\nYw371seZl4ZnuWV9zJGXh28sKsgmfByfKrZLe+hUJLwYkQ/DVR0GBXhhtG+Mv0Yc\nUeJfQQExdX+4msqyl1blfCM9Jq5AN9fnvrj6NzW9vj8gTd4JnwusCZrFAoGAKAFV\nLk48nFlM620Zv95ofNHNYusot4q9Sje+J5nCcKCcd4Y5738WGgivvhqvnUG1yPUV\nb+lEXGdwZ+4yul7WBMxaxSkpfC3O7tVuYkz86l5HSrEtPIkTVyuRp5ZLOb67QG23\n6ol2yN8eLeFCwzDrJuwJoWlpIeNvxzpCHFpeAWcCgYAJqwYjYjIIlMRyOZhjBz3y\nwvH2+H4HMxcPPqfHuCBXl7lPvp0E9Y1tFHEzcRkJFJMnfsqrYRhCCLxEdCFsQK+V\njoKlwsOzq0pCr07sTLVeke4s1UpBhkmEhfqBmbdAzVzw6KEjsPe3xMI6x2vzLgih\nllEqBYwZsVvqRsyhWyGfZQ==\n-----END PRIVATE KEY-----\n",
+  "client_email": "texttospeech@involuted-river-449301-j1.iam.gserviceaccount.com",
+  "client_id": "115761726356422545709",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/texttospeech%40involuted-river-449301-j1.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
